@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keramxx
 - 👨‍💻 I create small programs
 - Contact's:
-- Telegram @keram_x
+- Telegram @Keramxx
 
