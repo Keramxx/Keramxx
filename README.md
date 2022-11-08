@@ -2,4 +2,4 @@
 - 👨‍💻 I create small programs
 - Contact's:
 - Telegram @Keramxx
-
+- Love Naya💗
