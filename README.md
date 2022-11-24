@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Keramxx
-- 👨‍💻 I create small programs
+- 👨‍💻 C/C++, Python programmer
 - Contact's:
 - Telegram @Keramxx
-- Love Naya💗
