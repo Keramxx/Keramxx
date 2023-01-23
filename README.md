@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Keramxx
-- 👨‍💻 C/C++, Python programmer
+- 👨‍Python programmer
 - Contact's:
 - Telegram @Keramxx
