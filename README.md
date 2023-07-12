@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Keramxx
-- 👨‍Python programmer
-- Contact's:
-- Telegram @Keramxx
+- Telegram: @Keramxx
